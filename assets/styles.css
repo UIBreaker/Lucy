@@ -310,3 +310,131 @@ a {
   color: #ff5d31;
   text-decoration: underline;
 }
+
+.Our_Services {
+  margin-top: 130px;
+}
+
+.Our_Services_box {
+  background-color: #fff6ed;
+}
+
+.Our_Services_top {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 68px;
+}
+
+.Our_Services_top .Our_Services_Sub-title {
+  font-family: Sora;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #5e6085;
+}
+
+.Our_Services_top .Our_Services_Title {
+  font-family: Sora;
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 62px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #000958;
+  margin-top: 15px;
+}
+
+.Our_Services_row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 71px;
+  padding-bottom: 100px;
+}
+
+.Our_Services_item {
+  background-color: #ffffff;
+  padding: 30px 25px;
+  margin-bottom: 24px;
+  border-radius: 6px;
+  border: 1px solid #ffbc7a42;
+}
+
+.Our_Services_item .Our_Services-titlee {
+  color: #000958;
+  font-family: Sora;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 22px;
+  letter-spacing: 0%;
+  margin-bottom: 18px;
+}
+
+.Our_Services_item .Our_Services_sub-titlee {
+  width: 244px;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  color: #656689;
+  margin-bottom: 24px;
+}
+
+.Our_Services-Buttom_block {
+  display: flex;
+  /* justify-content: center;  */
+  align-items: center;
+}
+
+.Our_Services-Buttom_block .Our_Services-item-AUR {
+  margin-left: 10px;
+}
+
+.Our_Services-Buttom_block a {
+  font-family: Sora;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0%;
+  color: #34396a;
+}
+
+.Our_Services_mid {
+  position: relative;
+  margin-left: 71px;
+  margin-right: 71px;
+  margin-top: 245px;
+}
+
+.Our_Services-img-conchoxu {
+  position: absolute;
+  width: 447px;
+  top: -252px;
+}
+
+.Blue-lock {
+  background-color: #9df1fb;
+  width: 439px;
+  height: 351px;
+  top: 492px;
+  left: 515px;
+  border-radius: 10px;
+}
+
+.Our_Services_btn-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 45px;
+}
+
+.Our_Services_btn-block .Our_Services-btn {
+  color: #ff5b2e;
+  border: 1px solid #ff5b2e;
+  background-color: #fff6ed;
+}
