@@ -438,3 +438,241 @@ a {
   border: 1px solid #ff5b2e;
   background-color: #fff6ed;
 }
+
+/* Meet Our Groomers */
+
+.Meet_Our_Groomers {
+  margin-top: 130px;
+}
+
+.Meet_Our_Groomers-sub-title {
+  font-family: Sora;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #5e6085;
+}
+
+.Meet_Our_Groomers-title {
+  font-family: Sora;
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 62px;
+  letter-spacing: 0%;
+  color: #000958;
+  margin-top: 15px;
+}
+
+.Meet_Our_Groomers-top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 15px;
+}
+
+.Meet_Our_Groomers-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 71px;
+  gap: 35px;
+}
+
+/* .Meet_Our_Groomers-info-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+
+.Meet_Our_Groomers-item-sub-title {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #656689;
+  margin-top: 34px;
+}
+
+.Meet_Our_Groomers-item-title {
+  font-family: Sora;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #000958;
+  margin-top: 14px;
+}
+
+.Meet_Our_Groomers_btn-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 55px;
+  margin-bottom: 130px;
+}
+
+.Meet_Our_Groomers-btn {
+  color: #ff5b2e;
+  border: 1px solid #ff5b2e;
+  background-color: #fff;
+}
+
+/* The_Best_Choice */
+
+.The_Best_Choice-backgroup {
+  background-color: #fff6ed;
+}
+
+.The_Best_Choice-title {
+  font-family: Sora;
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 62px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #000958;
+  padding-top: 86px;
+}
+
+.The_Best_Choice-sub-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: center;
+  left: 50%;
+  transform: translateX(30%);
+  color: #656689;
+  width: 709px;
+  margin-top: 24px;
+}
+
+.The_Best_Choice-btn-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 55px;
+  margin-bottom: 130px;
+  margin-left: -39px;
+}
+
+.The_Best_Choice-btn {
+  position: relative;
+  outline: none;
+  border: none;
+  border: 1px solid #ff5b2e;
+  background-color: #fff6ed;
+  border-radius: 31px;
+  width: 171px;
+  padding: 20px 40px;
+  margin-right: 20px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #ff5b2e;
+}
+
+.The_Best_Choice-btn-son {
+  position: absolute;
+  right: -74px;
+  background-color: #ff5b2e;
+  padding: 21px 40px;
+  border-radius: 31px;
+  top: -1px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #ffffff;
+}
+
+.The_Best_Choice-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 55px;
+  gap: 44px;
+  padding-bottom: 86px;
+}
+
+.The_Best_Choice-item {
+  background-color: #fff;
+  padding: 44px 28px;
+  border-radius: 16px;
+}
+
+.The_Best_Choice_btn-block .list li {
+  display: flex;
+  margin-bottom: 18px;
+}
+
+.The_Best_Choice_btn-block .list li:first-child {
+  margin-top: 24px;
+}
+
+.list-img-title {
+  margin-left: 10px;
+}
+
+.The_Best_ChoiceItem-btn {
+  width: 246px;
+  height: 44px;
+  top: 530px;
+  left: 597px;
+  border-radius: 39px;
+  margin-top: 22px;
+  color: #ff5b2e;
+  border: 1px solid #ff5b2e;
+  background-color: #fff;
+}
+
+.The_Best_ChoiceItem-btn:hover {
+  background-color: #ff5b2e;
+  color: #fff;
+  transition: all 0.3s ease-in-out;
+}
+
+.The_Best_Choice-mini-title {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0%;
+  color: #ff5b2e;
+}
+
+.The_Best_Choice-list-title {
+  font-family: Sora;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 18px;
+  letter-spacing: 0%;
+  color: #3f4065;
+  margin-top: 8px;
+}
+
+.The_Best_Choice-price {
+  font-family: Sora;
+  font-weight: 700;
+  font-size: 33px;
+  line-height: 34px;
+  letter-spacing: 0%;
+  color: #000958;
+  margin-top: 24px;
+}
